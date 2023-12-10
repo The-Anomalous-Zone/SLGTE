@@ -1,0 +1,10 @@
+<color=green>in the morning</color>
+<color=#07A2FF>Location:</color>
+<color=orange>Walk</color>
+<color=red>married</color>
+<color=red>Black</color>
+<color=red>criminal</color>
+<color=green>Login is allowed.</color>
+<color=#07A2FF>Admit card is required.</color>
+<color=orange>He is running.</color>
+<color=orange>Correct</color>

@@ -1,0 +1,8 @@
+Garden area
+Continue...\nTime left: {0}
+Continue...\nPublishing
+Restart\n{0}
+Use the management interface.
+The master you face.
+good day
+One minute...

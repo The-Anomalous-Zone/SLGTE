@@ -1,0 +1,4 @@
+<size=180><color=red>you are unusual</color></size>
+<color=red><size=200>I like it too</size></color>
+<color=lime><size=180>MISSING</size></color>
+I didn't continue

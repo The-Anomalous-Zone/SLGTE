@@ -1,0 +1,15 @@
+Check the server's IP address
+Audio interface
+In some areas, the changes are not immediate. \n We recommend restarting the game.
+appeal...
+I speak
+Health indicators
+Decent amount of HP
+Why;
+Contact animation design
+most of the time
+Forever
+The name of the new function used to control the timing of the text animation in full screen mode.
+Run.
+The IP address of the server can be hidden in the interface module.
+Original flash motherboard

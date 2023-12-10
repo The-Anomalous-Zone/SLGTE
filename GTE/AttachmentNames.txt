@@ -1,0 +1,46 @@
+None ~ Default option, no effect.
+Metal mirror. Two pairs of aligned icons create a simple and easy-to-use presentation.
+Body Spot ~ Unmagnified red eye with small glowing dots indicating primary target.
+Hologram: Non-magnifying mirror with 3D mesh. Useful in battle.
+From night vision to binocular vision and night vision devices. Although it is heavy But it works well in all lighting conditions.
+Ball model: Please refer to the built-in ball model.
+Binoculars ~ High power provides a wide field of vision. Good for long distances, but overall visibility is limited.
+Standard Measure ~ Standard Measure. Improved weapon control during hunting.
+Extra ~ Increases weapon control when on target, but increases weapon duration.
+Capacity savings ~ makes the gun easier to shoot and carry.
+The stock is lighter ~ this reduces the weight of the gun, but makes it difficult to control the recoil when firing.
+Weight ~ Additional weight reduces mobility but stabilizes tool movement.
+Recoil Stock ~ A stock equipped with a system that distributes the force of each shot.
+Continue ~ Continue fast. This reduces the difficulty of lifting the muzzle.
+Laser sight ~ provides optical sight of the target. This is useful when shooting from the hip, but you can easily see your work.
+Electric light ~ replaceable light source. Although this increases the overall weight of the weapon, it can save lives in low-pressure situations.
+Shot counter ~ Shot counter. The experimental method was particularly useful for high-capacity magazines.
+standart barrel ~ a standard barrel without a mouth.
+Longer barrel ~ increases the overall range of the weapon, but reduces movement due to weight and length.
+barriers ~ sound guide The size of the trap body decreased, but the weight and length of the weapon increased.
+Flash Guardian - Eliminate Flash from robots. Taking pictures in the dark just got easier.
+Stopping the music is a luxury. A propellant is used to reduce circulation but increase pressure.
+Muzzle Booster ~ Increases rate of fire and damage per second, but makes the weapon harder to control.
+The FMJ magazine is a standard metallic powder magazine.
+AP Magazine - Classic magazine with fast cartridges.
+The JHP report is a standard assessment report.
+FMJ Expanding Magazine - Expanding magazine with metal bullets.
+AP Extended Magazine: Extended magazine with ammunition.
+JHP Extension Paper. An extended magazine holds an empty bullet hole.
+Advanced batteries include FMJ batteries with steel balls.
+Drum BBs are high quality bullet magazines.
+The JHP cartridge is a high-performance cartridge designed to hold precision projectiles.
+FMJ Low Capacity Magazine – A small volume magazine that holds metallic rounds.
+AP Small Capacity Magazine: A small capacity magazine for carrying armor.
+JHP magazines are small magazines filled with bullets.
+Quad-Hit Turret ~ Deals more damage to armored enemies, but less ammo.
+6 roller waves ~ 6 roller waves.
+#8 ~ The gun holds a lot of ammo, but the trigger is heavy, so it takes a long time to get an accurate shot.
+Carbine Receiver - A quality carbine receiver is the perfect compromise between shooting and maneuverability.
+barrel of a gun. A full-size upper receiver increases the power and accuracy of the projectile, while a hardened air system reduces the rate of fire.
+Short Barrel ~ a short version of the standard barrel. It is used to increase strength and mobility.
+Slowing down increases the total turning radius, but improves the stability of the model.
+Longer barrel ~ makes it slightly slower. But it adds weight and length to the weapon.
+A shorter/smaller stock setup improves maneuverability, but using too much stock isn't always a good idea.
+System Press the trigger to hear the default system.
+Dual Engine Mode ~ Improved engine mode to run two engines simultaneously.

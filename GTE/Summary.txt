@@ -1,0 +1,17 @@
+The tour is over!
+DRY SCPS
+MANY DIED
+IT'S EASY TO BUY
+THIS TREE
+Destroying people's homes. Respond quickly to emergencies.
+All danger has passed. 02-Schools are closed.
+Construction work has been completed. Customers want more orders.
+I saved page-02 but nothing saved. The page is not displayed.
+[summary_d_escaped] A flock of chicken
+[summary_s_escaped] High school student(s)
+Kill [summary_warhead_kills] animals with Alpha Team.
+There is no such thing as an alpha leader.
+The work lasted [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+After closing on the [summary_scp_terminated]
+It takes [summary_next_round_countdown] seconds.
+[summary_scpfrags] Ukrainian communists were killed.

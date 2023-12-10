@@ -1,0 +1,90 @@
+THE WORLD IS VERY RICH [amount]x
+PLEASE FILL OUT THE FORM [tier]
+QUESTION [current] / [next]
+GO
+I DO NOT HAVE A CAMERA
+ADVICE: [camera] ([cost])
+THERE IS NO NEED FOR NEW MESSAGES
+PROCESSING TIME: [time] seconds
+BUT THIS IS STUPIDITY
+THE ROOM IS CLOSED
+REGISTRATION IS NOT GUARANTEED
+IT WAS VERY FUN ([cost])
+CLOSED ([cost])
+THIS MONTH ([cost])
+STONE DOOR
+THE DOOR OPENED
+OUTSIDE
+YOU WILL LIKE IT!
+RELEASE STONE DOOR
+WAKE UP IN THE MORNING
+LOCATION
+CITY
+DISTRIBUTION AGREEMENT
+AS ALWAYS
+YESTERDAY
+DARK CHOCOLATE ([cost])
+DARK CHOCOLATE CAN'T SAY ANYTHING
+THIS DARK CHOCOLATE IS GOING UP
+BLACKHOLE
+THE ADDED VALUE ([cost])
+ROAD ([cost])
+ROAD TRUE
+THIS IS NOT THE REASON
+STRING PING ([cost])
+HIS MIND IS CLEAR
+PROFESSIONAL PHOTOGRAPHER
+COOK FISH
+LOGIN AGAIN (WITH YOUR LOGIN ID: [time]s)
+TESLA WATERGATE ([cost])
+TESLA'S PLANE WAS WRONG
+$Access Tier [tier]$ - STATUS
+$AUXILIARY POWER$ THE ELECTRICITY BILL HAS INCREASED BY $[limit]$.
+$BLACKOUT$ it's not bad - press $[key]$ to close the device.
+$BLACKOUT$ time: $[number]$.
+$LOCKDOWN$ it's not bad - press $[key]$ to lock all doors in the room.
++[amount] GO - Good management skills
++[amount] GO - [role] Please help me to cure my pain.
++[amount] GO - [role] Hire
++[amount] GO - Take a lesson [role]
++[amount] GO - Help your team win!
++[amount] GO - Please protect your friend(s)
++[amount] GO - No microSD
+HANDS ARE READY TO USE
+BLACKFIELD ([cost])
+$ZONE-WIDE BLACKOUT$ it's not bad - in addition to partitioning $Facility Map$.
+BLACKFIELD I WANT YOU TO REST
+BLACKFIELD IS A BLESSING
+BLACKFIELD NOTHING IMPORTANT HERE
+BUT HE IS STILL ALIVE
+IT CAN BE MEASURED
+THIS IS WHAT SCP DOES
+MY BABY MY BABY
+THAT'S GOOD
+CONTENTS
+CLOSE THE DOOR
+SCP-079 cannot fight or move. Instead, you see the world and interact with it from a different angle. All options are located in the upper right corner of the HUD.
+Staff: Three full-time employees. Once all devices are connected, you can disconnect them from your phone. The generator has a timer that can be stopped by pressing the stop button.
+Unlimited access: Choose the content you want. Exchange SCP shares. This option is located on the right side of the screen. Each time you need to refill it with a new power (AP).
+Higher Education: Help other CCS members online and further your education. Each update provides access to new information and features.
+Conflict: Each region has its own characteristics. Click on a place, person or thing that you find useful.
+$BREACH SCANNER$ it's not bad random interrupt. Choose a default $Facility Map$ for each scan.
+YOU CAN ACHIEVE HIGH PRODCIVITY
+STARTLENGTH ([precentage])
+The world
+Use a microphone
+The issue is controversial
+PERSONAL WORK
+GO BACK TO THE MAP
+PERSONAL WORK - [cnt] criminal(s)
+BETWEEN PEOPLE CRIMINALS: [cnt]
+SELECT THE CRIMINAL YOU WANT TO VIEW
+YOU WILL RECEIVE AN ANSWER: $No stationary targets detected$.
+Please try again in [time] minutes...
+Optica: $[role]$ has a ‘$[camera_name]$’ ([zone]).
+REMOVE EVERYTHING. BUY NOW!: [time]
+Stay calm...
+RESEARCH HAS CHANGED
+SELECT THE MODE YOU WNAT TO ENABLE
+Time to hide things in one place for too long.
+Select the tracking filter!

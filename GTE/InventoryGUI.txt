@@ -1,0 +1,17 @@
+Ammo {0}/{1} {2}
+damages
+rate of fire
+hip accuracy
+The accuracy of the ADS
+weight
+length
+draw:
+Hull efficiency
+The vest effect
+Take advantage of resistance
+The speed of movement
+Item Limitations:
+Ammo limit:
+{0} in total
+Armor penetration
+The precision of the operation

@@ -1,0 +1,6 @@
+<color=red>you can't</color>
+Maximum number of characters for <color=yellow>[type] reached</color> (<color=yellow>[max_type_count] overridden</color>).
+<b> replace </b> number of levels <color=yellow>[type] (<color=yellow>number of levels [max_type_count]).
+[type] has reached the <color=yellow>maximum</color> (<color=yellow>type type [max_type_count]</color>).
+<b><color=yellow>[type]</color></b> has reached its maximum limit (<color=yellow>where [max_type_count]</color>).
+Color <color=yellow>items only</color> [max_item_count].
