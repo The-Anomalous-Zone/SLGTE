@@ -13,13 +13,13 @@ Help the <color=#FFFF7CFF>Scientists</color> survive.\nDestroy other subjects.\n
 Help the <color=#FFFF7CFF>scientist</color> escape.\nForget about other projects.\nCommand your troops.
 Help the <color=#FFFF7CFF>Scientist</color> escape. \nClick other items. \nFollow your supervisor's instructions.
 Follow the battle and reach your goals.
-<color=#FFFF7CFF>Researcher</color> Escape \n<color=#0096FF>MTF Collaboration</color> \nMore Lectures
+<color=#FFFF7CFF>Researcher</color> Escape \n<color=#0096FF>MTF</color> Collaboration\nMore Lectures
 Kill them all.\nUntil they escape.\nJoin another <color=#F00>SCP.</color>.
-Kill everyone. Avoid running away. \nConnect to another <color = #F00> SCP </color>.
+Kill everyone. Avoid running away. \nConnect to another <color=#F00>SCP</color>.
 Add process <color=#FF8E00>Class D Officer</color>.\nRemove other items.
 <color=#FF8E00>Section D</color> Help the team escape.\nSeparate some items.
 Help avoid <color=#FF8E00>Class D</color>.\nRemove other cases.
 -
 -
-Kill them all. \nStop running. \NOther <color=#F00> Works with SCP. </color>.
+Kill them all.\nStop running.\nOther<color=#F00>Works with SCP.</color>.
 
