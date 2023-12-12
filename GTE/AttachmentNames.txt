@@ -18,8 +18,8 @@ Shot counter ~ Shot counter. The experimental method was particularly useful for
 standart barrel ~ a standard barrel without a mouth.
 Longer barrel ~ increases the overall range of the weapon, but reduces movement due to weight and length.
 barriers ~ sound guide The size of the trap body decreased, but the weight and length of the weapon increased.
-Flash Guardian - Eliminate Flash from robots. Taking pictures in the dark just got easier.
-Stopping the music is a luxury. A propellant is used to reduce circulation but increase pressure.
+Flash Guardian~Eliminate Flash from robots. Taking pictures in the dark just got easier.
+Stopping the music is a luxury~A propellant is used to reduce circulation but increase pressure.
 Muzzle Booster ~ Increases rate of fire and damage per second, but makes the weapon harder to control.
 The FMJ magazine~ is a standard metallic powder magazine.
 AP Magazine~ Classic magazine with fast cartridges.
