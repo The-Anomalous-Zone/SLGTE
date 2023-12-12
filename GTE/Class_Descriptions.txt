@@ -2,14 +2,14 @@ Kill them all.\nDon't run.\nWork with other <color=#F00>SCPs.</color><color=#FFF
 Escape the base.\n Recruit <color=#008F1e>Rebel Assassins</color>.\nFinish the other units.
 Soon you will be reborn.
 He killed them all. \n Prevent exit. \nUse with other <color=#F00>SCPs. </color><color=#FFFF00>\nYou can go through the door. \n Left clicking will damage the enemy and send the enemy to your size. \nHold TAB to access TP functions. </color>
-<color=#FFFF7CFF>Help scientists</color>.\nTrain other companies.\nTrain the military. \nFollow the master's instructions.
+Help<color=#FFFF7CFF> scientists</color>.\nTrain other companies.\nTrain the military. \nFollow the master's instructions.
 Kill them all.\nLet them run away.\nEngage with another <color=#F00>SCP.</color><color=#FFFF00>\nLeft click enemies to kill them quickly.\nEnemies come in and interact with the one who just killed someone permanently. Add them again as friends.</color>
 Escape the factory.\nJoin <color=#0096FF>MTF</color>.\nForget other groups.
 Kill them all.\nAvoid running.\nMerge with other <color=#F00>SCP.</color>
-Help escape from <color=#FF8E00> Team D </color>. \ There are no other agency priorities.
-Kill everyone. \nStop coercion.\nCooperate with other <color=#F00>SCP.</color>.
+Help escape from <color=#FF8E00> Team D </color>.\nThere are no other agency priorities.
+Kill everyone.\nStop coercion.\nCooperate with other <color=#F00>SCP.</color>.
 Try to kill them all.\nDon't run away.\nCooperate with other <color=#F00>SCP.</color><color=#FFFF00>\nLeft click to attack and do short work.</color>
-Help the <color=#FFFF7CFF>Scientists</color> survive.\nDestroy other subjects.\nTrain your soldiers. \nFollow the captain's orders.
+Help the <color=#FFFF7CFF>Scientists</color> survive.\nDestroy other subjects.\nTrain your soldiers.\nFollow the captain's orders.
 Help the <color=#FFFF7CFF>scientist</color> escape.\nForget about other projects.\nCommand your troops.
 Help the <color=#FFFF7CFF>Scientist</color> escape. \nClick other items. \nFollow your supervisor's instructions.
 Follow the battle and reach your goals.
@@ -21,5 +21,5 @@ Add process <color=#FF8E00>Class D Officer</color>.\nRemove other items.
 Help avoid <color=#FF8E00>Class D</color>.\nRemove other cases.
 -
 -
-Kill them all.\nStop running.\nOther<color=#F00>Works with SCP.</color>.
+Kill them all.\nStop running.\nOtherWorks with <color=#F00>SCP.</color>.
 
