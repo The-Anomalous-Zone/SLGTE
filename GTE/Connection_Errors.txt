@@ -2,7 +2,7 @@
 <size=80>we have it</size>\nRecipients are anonymous.
 <size=80>we have it</size>\nThere is no sign of difference.
 <size=80>we have it</size>\nThis site is not displayed.
-<size=80>we have it</size>\nThe place is full
+<size=80>we have it</size>\nExcellent service
 <size=80>we have it</size>\nTake this bag.
 <size=80>we have it</size>\nPregnant
 <size=80>we have it</size>\nPregnant
@@ -17,7 +17,7 @@
 <size=80>It is a form of magic.</size>\nServer type varies by server\n(char - [your]; server - [server])
 <size=80>this is true.</size>\n<size=35>Let's write together...</size>
 <size=35>File path...</size>
-<size=80>we have it</size>\nAn unexpected problem arose.
+<size=80>we have it</size>\nOld.
 <size=80>we have it</size>\nA proxy must be installed on this server.
 <size=80>we have it</size>\nYou do not have access to this page.
 <size=80>we have it</size>\nHe left this world..
