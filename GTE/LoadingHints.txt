@@ -69,7 +69,7 @@ SCP-096 can capture targets, open doors, and destroy them.
 Shocked, SCP-096 opened the locked door.
 SCP-939 can mimic the voice of the dead.
 SCP-939 can create clouds of amniotic fluid. Victims are unable to capture SCP-939 until after the attack.
-Adrenaline counteracts the amnesic effects of SCP-939 clouds.
+Adrenaline affects SCP-939's digestive system.
 Fire is very useful for SCP-939.
 The lower the level of SCP-939, the worse it will treat the player.
 The higher the concentration of SCP-939, the greater the psychoactive effects.
