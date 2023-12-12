@@ -11,7 +11,7 @@
 
 3. **Move GTE Folder:**
    - Locate your SCP: Secret Laboratory installation directory by right-clicking the game in Steam, selecting "Browse Local Files"
-   - Drag the extracted "GTE" folder into the "translations" directory in your SCP: Secret Laboratory installation
+   - Drag the extracted "GTE" folder(Not SLGTE-main) into the "translations" directory in your SCP: Secret Laboratory installation
 
 4. **Launch the Game:**
    - Start the game and go to Interface Settings
