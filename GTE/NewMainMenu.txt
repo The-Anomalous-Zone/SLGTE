@@ -2,7 +2,7 @@ Raw material
 Place
 In constrast
 Say it out loud
-This is no longer the case
+<align="left"><voffset=50px>GTE made by <color=#0d98ba>coollogan876</color></voffset></align>\n<voffset=25px>This is no longer the case</voffset>
 The plant
 This is good
 Adoption
@@ -63,7 +63,7 @@ immediately directly
 Are you sure you want to go?
 Lift the cape.
 Enter your IP address.
-Bye Bye {username}!\nGTE made by coollogan876
+Bye Bye {username}!
 Interest
 Let's get ready
 Configuring the connection to the master server...
