@@ -3,4 +3,4 @@ I'll fix it again. Glad I found all the mistakes.
 Corporate employees need something special. During the Great Depression, your main objective is to destroy the <color=#F00>SCP</color> and <color=#0096FF>MTF</color> factories and help them survive.
 A member of a secret society whose main goal is to work and use <color=#F00>SCPs</color> for their own benefit. Housing and protection for researchers and workers
 Key members of the operations team are responsible for responding to breaches and ensuring business security. Their primary mission is to destroy the <color=#F00>SCP</color> and <color=#008F1E>Chaos</color>, isolate <color=#FF8E00>Class D</color> and ensure the safety of <color=FFFF7CFF>science</color>.
-The guards in the room must stop the <color=#F00>SCP</color> threat and help the <color=#FFFF7CFF>scientists</color> escape. To do this, open <color=#0096FF>DTF</color>.
+The guards in the room must stop the <color=#F00>SCP</color> threat and help the <color=#FFFF7CFF>scientists</color> escape. To do this, open <color=#0096FF>DTF</color>. 
