@@ -4,7 +4,7 @@
 ## How to Install
 
 1. **Download the Files:**
-   - Go to [![Releases](https://github.com/coollogan876/SLGTE/releases/tag/v1.0.0)] and download "GTE.zip"
+   - Go to ![Releases](https://github.com/coollogan876/SLGTE/releases/tag/v1.0.0) and download "GTE.zip"
 
 2. **Extract Files:**
    - Unzip the downloaded folder
