@@ -45,4 +45,5 @@ Turn off public chats.
 open (required)
 default (setting)
 Hide the microphone.
-input device
+INPUT DEVICE
+Click the "[key]" button.
