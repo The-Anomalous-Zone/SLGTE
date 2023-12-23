@@ -15,3 +15,5 @@ The work lasted [summary_round_minutes] minutes and [summary_round_seconds] seco
 After closing on the [summary_scp_terminated]
 It takes [summary_next_round_countdown] seconds.
 [summary_scpfrags] Ukrainian communists were killed.
+FLAMENCO WON
+There is no other group. Every flower is beautiful.
