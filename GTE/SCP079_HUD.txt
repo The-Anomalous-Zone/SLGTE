@@ -88,3 +88,4 @@ RESEARCH HAS CHANGED
 SELECT THE MODE YOU WNAT TO ENABLE
 Time to hide things in one place for too long.
 Select the tracking filter!
+$NEXT$ absolutely - the door closes when the exit $[key]$ is pressed.

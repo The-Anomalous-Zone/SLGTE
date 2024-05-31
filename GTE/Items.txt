@@ -21,9 +21,9 @@
 21~A total of 
 23~Figure FSP-9
 24~He smiled.
-25~Grenade~Transform!
+25~Pomegranate~Transform!
 26~Elder Combo~The face of the enemy
-30~COM-18
+30~Chapter: 18
 31~SCP-018~A witch with special powers.
 32~SCP-268~When locked, it is invisible until opened by the user.
 33~Adrenaline~Provides temporary energy.
@@ -47,4 +47,8 @@
 51~SCP-207~Four?
 52~Figure FR-MG-0
 53~and a7
-54~Ancient oil "Daniel".
+54~Ancient Oil~"Daniel".
+55~First Child
+56~Hand
+57~Charcoal?
+58~You Are The Best?~Close the lock screen
