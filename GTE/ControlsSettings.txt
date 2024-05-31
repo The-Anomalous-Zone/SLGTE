@@ -1,7 +1,7 @@
 Mouse settings
 It's cold inside.
 Reduces target perception.
-Cash income
+Cash Income
 Rotate the I axis
 When touching, the feeling was divided by the number of points. The targets always move the same distance across the screen as the mouse. By adjusting this module, you can increase or decrease the intensity of the reduction.
 Spiritual
@@ -9,10 +9,8 @@ This is the difference.
 Focus Down - Active Mode
 A Sprint is a startup process
 Product acceptance - execution status
-Stealth - active mode
+Stealth - Active Mode
 Mouse display - activation mode
-right click to set (Inventory)
+Right Click to Set (Inventory)
 Inventory - Action status
-
-
-
+Change Your Address

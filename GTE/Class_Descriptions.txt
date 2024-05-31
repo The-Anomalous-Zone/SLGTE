@@ -25,6 +25,3 @@ Kill them all.\nStop running.\nOtherWorks with <color=#F00>SCP.</color>.
 We were killed.\nYou have arrived at your destination.\n<color=#FF59CA>Application:</color>
 We were killed.\nYou have arrived at your destination.\n<color=#FF59CA>Application:</color>
 Kill them all.\nStop running.\nOtherWorks with <color=#F00>SCP.</color>.
-
-
-
