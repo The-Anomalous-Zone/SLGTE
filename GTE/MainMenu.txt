@@ -85,7 +85,7 @@ SEE FULL HP
 Record your true health, not just a percentage
 HOTEL
 If possible, Steam friends can join without permission.
-HIDE IP
+PROTECT HUMAN RESOURCES
 If this option is enabled, the IP address will not be displayed on the client line.
 I WANT A RELATIONSHIP
 No installation is required to use the product. Click again to cancel.
