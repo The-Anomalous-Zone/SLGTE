@@ -25,3 +25,6 @@ Kill them all.\nStop running.\nOtherWorks with <color=#F00>SCP.</color>.
 We were killed.\nYou have arrived at your destination.\n<color=#FF59CA>Application:</color>
 We were killed.\nYou have arrived at your destination.\n<color=#FF59CA>Application:</color>
 Kill them all.\nStop running.\nOtherWorks with <color=#F00>SCP.</color>.
+Kill all the people.\nAvoid running away.\nJob and others <color=#F00>Lao PDR.</color>
+Also capture the base from the enemy forces.\nTo cooperate <color=#5B6370>local police</color> and so on <color=#0096FF>MTF representative</color>.
+Capture and destroy the house <color=#0096FF>the branch staff</color>.\nConnect with others <color=#008F1E>Anarchist revolution</color>.

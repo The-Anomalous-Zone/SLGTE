@@ -1,4 +1,4 @@
-bag
+Bag
 I stopped!
 DNA
 This software prevents our servers from using your information (email address, username, etc.) for malicious purposes. Some server functions (configuration, testing, etc.) may not work properly.
@@ -18,3 +18,13 @@ only you
 He cheated
 Development of SCP
 The first step is to develop SCP relationships with stakeholders. Note that this does not affect your ability to become SCP or human.
+Settings Created
+Don't Choose
+Give the World
+Choose Your Local Logo
+The Sign of Choosing the World
+Local Visitor Program
+Embarrassing
+If it is activated, SCP is not required. But if there are enough players to use SCP, there are more players.
+He has been selected
+Put it in place

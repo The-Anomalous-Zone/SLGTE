@@ -1,8 +1,8 @@
-Garden area
-Continue...\nTime left: {0}
-Continue...\nPublishing
+GARDEN AREA
+CONTINUE...\nMOATS: {0}
+CONTINUE...\nPUBLISHING
 Restart\n{0}
-Use the management interface.
-The master you face.
-good day
-One minute...
+USE THE MANAGEMENT INTERFACE\nWE ARE TALKING
+THE MASTER YOU FACE
+GOOD DAY
+ONE MINUTE...

@@ -1,49 +1,49 @@
-tactics
+TACTICS
 Yippee
-Let's begin
-SCP-106 does not use LAWS\n
+LET'S BEGIN
+SCP-106 DOES NOT USE LAWS\nLARGE
 Y axis rotation
-England
+ENGLAND
 Well
-News channels
-England
-a tiger
-Repair
-Alpha image
-World
-Each year
-Good News
-Caesar's office
-Pain? help me
-Money...
+N E W S  C H A N N E L S
+ENGLAND
+A TIGER
+REPAIR
+ALPHA IMAGE
+WORLD
+EACH YEAR
+GOOD NEWS
+CAESAR'S OFFICE
+PAIN? HELP ME
+MONEY...
 <b>In a place that is injured by light. \n Try to keep the quality low.
 [1] Close / All\n[2] Close *\n\n* Close the door with a special control.
-SCP-079 closes the door.
+SCP-079 CLOSES THE DOOR
 Complete the registration process.
 Do you want to leave this place?
 It's an easy choice. Underwear
-Boxer
-England
-If
-Cash withdrawal service
+BOXER
+ENGLAND
+IF
+CASH WITHDRAWAL SERIVCE
 Here
 He resigned from science and became the president of DMK.
 Class H escapes and joins the Chaos Rebellion.
-who you are
+WHO YOU ARE
 Escape time: minutes [escape_minutes] and seconds [escape_seconds]
 Wait [time] before using again [item].
 Press <color=Yellow><b>F1</b></color> again.
 You have already been denied access.\n<size=40>Follow the instructions or ask a friend for help</size>
 A fax will help. \nI become strong and fearless.
 Chaos Rising welcomes you as an observer. \nYou have provided good information.
-Default value: page <color=yellow>{0}</color>
-This is where the fire <color=#FF5050>broke out</color>.
-Leave the result
+DEFAULT VALUE PAGE: <color=yellow>{0}</color>
+THIS IS WHERE THE FIRE <color=#FF5050>BROKE OUT</color>.
+LEAVE THE RESULT
 Press [key] to confirm the edit.
-Edit your ad.
-Turn off public chats.
-open (required)
-default (setting)
-Hide the microphone.
-INPUT DEVICE
+Edit Your Ad
+Turn Off Public Chats
+Open (required)
+Default (Setting)
+Hide The Microphone
+BEGIN
 Click the "[key]" button.

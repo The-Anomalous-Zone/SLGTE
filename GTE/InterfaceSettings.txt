@@ -1,13 +1,13 @@
 Check the server's IP address
 Audio interface
 In some areas, the changes are not immediate. \n We recommend restarting the game.
-appeal...
+Appeal...
 I speak
-Health indicators
-Decent amount of HP
+Health Indicators
+Decent Amount of HP
 Why;
-Contact animation design
-most of the time
+Contact Animation Design
+Most of the time
 Forever
 The name of the new function used to control the timing of the text animation in full screen mode.
 Run.

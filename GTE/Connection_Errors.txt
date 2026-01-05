@@ -1,38 +1,38 @@
-<size=80>He took his place.</size>\nThe connection to the server has been lost.
-<size=80>we have it</size>\nRecipients are anonymous.
-<size=80>we have it</size>\nThere is no sign of difference.
-<size=80>we have it</size>\nThis site is not displayed.
-<size=80>we have it</size>\nExcellent service
-<size=80>we have it</size>\nTake this bag.
-<size=80>we have it</size>\nPregnant
-<size=80>we have it</size>\nPregnant
-<size=80>we have it</size>\nChore
-<size=80>we have it</size>\nVarious options are available.
-<size=80>we have it</size>\nThe server configuration is incorrect.
-<size=80>we have it</size>\nThe address is invalid and cannot be updated.
-<size=80>we have it</size>\nThis is an immediate problem.
-<size=80>You should be here</size>\n<size=35>call me...</size>
-<size=80>The journey begins again.</size>\n<size=35>The series begins again...</size>
-<size=80>You should be here</size>\n<size=35>Accomodation...</size>
-<size=80>It is a form of magic.</size>\nServer type varies by server\n(char - [your]; server - [server])
-<size=80>this is true.</size>\n<size=35>Let's write together...</size>
-<size=35>File path...</size>
-<size=80>we have it</size>\nOld.
-<size=80>we have it</size>\nA proxy must be installed on this server.
-<size=80>we have it</size>\nYou do not have access to this page.
-<size=80>we have it</size>\nHe left this world..
-<size=80>we have it</size>\nHe left this world.: [reason].
-<size=80>we have it</size>\nOpen the server.
-<size=80>we have it</size>\nOpen the server.\nGeneral insurance: [date] [time]
-<size=80>we have it</size>\nThe test is over. \nIncorrect server or timer settings. \nContact your server administrator.
-<size=80>we have it</size>\nTry again later.
-<size=80>we have it</size>\nThis site does not accept cookies. \nCan contain a domain name or a configuration file.
-<size=80>we have it</size>\nSave to save changes. \n\nReason: [reason] \nServer is down The server is down. \nPlease contact the administrator for more information.
-<size=80>we have it</size>\nThe server provided the correct password. \n Please restart the game and try again or contact the developer.
-<size=80>we have it</size>\nYou have been banned from this group.\nTwo: [reason]
-<size=80>we have it</size>\nYou have been banned from this group.\nGeneral insurance: [date] [time]\nTwo: [reason]
-<size=80>You should be here</size>\nCheck server security...
-<size=80>we have it</size>\nI am not here check server security.
-<size=80>we have it</size>\nCheck server security the center is very active.\nContact your administrator.
-<size=80>I don't know</size>\nImportant message from the server: [message].
-<size=80>we have it</size>\nThe medium is the internet.
+<size=80>HE TOOK HIS PLACE</size>\nTurn on the absence of the server.
+<size=80>WE HAVE IT</size>\nRecipients are anonymous.
+<size=80>WE HAVE IT</size>\nThere is no sign of difference.
+<size=80>WE HAVE IT</size>\nThis site is not displayed.
+<size=80>WE HAVE IT</size>\nExcellent service
+<size=80>WE HAVE IT</size>\nTake this bag.
+<size=80>WE HAVE IT</size>\nPregnant
+<size=80>WE HAVE IT</size>\nPregnant
+<size=80>WE HAVE IT</size>\nChore
+<size=80>WE HAVE IT</size>\nVarious options are available.
+<size=80>WE HAVE IT</size>\nServer programs are incorrect.
+<size=80>WE HAVE IT</size>\nThe address is invalid and cannot be updated.
+<size=80>WE HAVE IT</size>\nThis is an immediate problem.
+<size=80>YOU SHOULD BE HERE</size>\n<size=35>call me...</size>
+<size=80>THE JOURNEY BEGINS AGAIN</size>\n<size=35>The series begins again...</size>
+<size=80>YOU SHOULD BE HERE</size>\n<size=35>Accomodation...</size>
+<size=80>IT IS A FORM OF MAGIC</size>\nServer type varies by server\n(char - [your]; server - [server])
+<size=80>THIS IS TRUE</size>\n<size=35>Let's write together...</size>
+<size=35>FILE PATH...</size>
+<size=80>WE HAVE IT</size>\nOld.
+<size=80>WE HAVE IT</size>\nThe software should be included in this server.
+<size=80>WE HAVE IT</size>\nYou do not have access to this page.
+<size=80>WE HAVE IT</size>\nHe left this world..
+<size=80>WE HAVE IT</size>\nHe left this world.: [reason].
+<size=80>WE HAVE IT</size>\nOpen the server.
+<size=80>WE HAVE IT</size>\nOpen the server.\nGeneral insurance: [date] [time]
+<size=80>WE HAVE IT</size>\nThe test is over. \nIncorrect server or timer settings. \nContact your server.
+<size=80>WE HAVE IT</size>\nTry again later.
+<size=80>WE HAVE IT</size>\nThis site does not accept cookies. \nCan contain a domain name or a configuration file.
+<size=80>WE HAVE IT</size>\nSave to save changes. \n\nReason: [reason] \nThe server is found under the server. \nPlease contact the administrator for more information.
+<size=80>WE HAVE IT</size>\nThe server provided the correct password. \n Please restart the game and try again or contact the developer.
+<size=80>WE HAVE IT</size>\nYou have been banned from this group.\nTwo: [reason]
+<size=80>WE HAVE IT</size>\nYou have been banned from this group.\nGeneral insurance: [date] [time]\nTwo: [reason]
+<size=80>YOU SHOULD BE HERE</size>\nCheck server security...
+<size=80>WE HAVE IT</size>\nI am not here check server security.
+<size=80>WE HAVE IT</size>\nCheck server security the center is very active.\nContact a manager for more information.
+<size=80>I DON'T KNOW</size>\nSignificant service message: [message].
+<size=80>WE HAVE IT</size>\nThe medium is the internet.

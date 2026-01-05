@@ -1,17 +1,30 @@
-Ammo {0}/{1} {2}
-damages
-rate of fire
-hip accuracy
+Call [loaded]/[capacity] [type]
+This name was named
+Process
+The President Told The Truth
 The accuracy of the ADS
-weight
-length
-draw:
-Hull efficiency
-The vest effect
-Take advantage of resistance
-The speed of movement
+Loaded
+Judge
+TAUGHT DISCIPLES:
+Hull Efficiency
+The Vest Effect
+Take Advantage of Resistance
+The Speed of Movement
 Item Limitations:
-Ammo limit:
-{0} in total
-Armor penetration
+Surgery:
+[amount] in total
+This is the reason for the maintenance
 The precision of the operation
+Go [key]
+Expected payment: [percent]
+Trap - simply: [rem]
+[primary] death is important.
+This [secondary] is a strong force.
+Click the [key] on the wheel.
+Click the attack [key].
+Skull [key].
+The future is ready. Here [primary].
+The device finally deleted.
+It is difficult to add SMP -10.
+Use the $arrow keys$ or surface, on the $[left], [down]$ and slow down to control the snake.
+Go [key]
