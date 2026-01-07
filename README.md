@@ -16,5 +16,4 @@
 4. **Launch the Game:**
    - Start the game and go to Interface Settings
    - Select "Google Translate Edition" from the Interface Language
-  
-![Logo](https://media.discordapp.net/attachments/750813440687210517/1183293517112557598/ce948e83-c610-4546-9263-ba97f7f0a88b.png?ex=6587cef7&is=657559f7&hm=34e4bd1d62754b07b3ac2c6a533f7869ad9cfd27309dcaebd65c88dd92be10c0&=&format=webp&quality=lossless&width=991&height=897)
+   - Go cry at the chaos
