@@ -1,0 +1,9 @@
+ (%time% ⏳)
+ (+%influence% 👊)
+<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
+A nice stone!
+<color=%achieverColor%>%achieverName%</color> to kill <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> fear is not afraid <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> would like to come in
+<color=%achieverColor%>%achieverName%</color> Is very <b>difficult</b>
+<color=%achieverColor%>%achieverName%</color> stairs <color=red>%itemName%</color>
